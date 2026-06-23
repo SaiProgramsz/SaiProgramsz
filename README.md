@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @SaiProgramsz
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning in School
-- 💞️ I’m looking to collaborate on my School's IT comp.
-- 📫 How to reach me : By nothing
-- 😄 Pronouns: Good, Getting bored 
-- ⚡ Fun fact: I play games , arras.io
+👋 Hi, I’m Sai Sai Satya Likhit Kala <br>
+I'm student intrested in Tech and Games (like Chess, Minecraft,etc) <br>
+I'm currently serving as an AI Student Community Ambassador <br>
 
 <!---
 SaiProgramsz/SaiProgramsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
